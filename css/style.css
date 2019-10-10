@@ -1,0 +1,142 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	margin:0;
+	padding: 0;
+	
+}
+body.landingPage {
+ background: 
+     linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    ),
+    url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/428394/travelBackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 100vh;
+  -webkit-box-orient:vertical;
+  -webkit-box-direction:normal;
+      -ms-flex-direction:column;
+          flex-direction:column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/*Destination page dtyles*/
+.destinationPage{
+  margin:0;
+  padding: 0;
+}
+
+.destinationHeader{
+  position: fixed;
+  top:0;
+  margin:0;
+  padding: 0;
+  height: 100px;
+  width: 100%;   
+}
+
+.navLinks{
+  margin:40px 15px;
+  display: inline-block;
+}
+
+button.navLinks {
+  float:right;
+  
+}
+.main-content{
+  margin-top: 100px;
+  display: flex;
+  flex-direction:column;
+}
+
+.showcaseImg{
+  margin-bottom: 30px;
+  width:100%;
+  height: 200px;
+  background-color: slategrey;   
+}
+
+.destinationImg{
+  border-radius: 50%;
+}
+
+.destinatinContent{
+  display: inline-flex;
+}
+
+.imgWrapper{
+  margin-left: 50px;
+ flex-basis: 250px;
+}
+.searchResults {
+  margin-top: 30px;
+  margin-left:15px;
+  margin-right: 15px;
+  width: 40%;
+}
+
+.transPortInfo{
+  width: 30%;
+  text-align: center;
+  background-color: slategrey;
+}
+
+@media screen and (max-width: 750px)  {
+  .destinatinContent{
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    align-items: center;
+    margin:25px;
+  }
+
+  .transPortInfo{
+    margin-top: 25px;
+    width: 95%;
+  }
+
+  .searchResults{
+    width: 95%;
+  }
+
+  .imgWrapper{
+   margin:0 auto;
+}
+/*End destination styles*/
+.appTitle {
+	color:#fefefe;
+	text-align: center;
+	font-size: 4.0rem !important;
+	font-weight: 300;
+}
+
+.appDescription{
+	color:#fefefe;
+}
+
+.search{
+	text-align: center;
+	
+}
+
+.findBtn {
+	background-color: #5180da;
+	border-radius: 10px;
+	border: none;
+	color: antiquewhite;
+	height: 40px;
+	width: 160px;
+}
+.main-content { 
+
+}

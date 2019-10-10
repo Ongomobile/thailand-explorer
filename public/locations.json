@@ -1,0 +1,219 @@
+{
+  "locations": [
+    {
+      "lat": 14.99433,
+      "lng": 103.1039,
+      "name": "Buriram"
+    },
+    {
+      "lat": 18.706064,
+      "lng": 98.981716,
+      "name": "Chiang Mai"
+    },
+    {
+      "lat": 13.756331,
+      "lng": 100.501765,
+      "name": "Bangkok"
+    },
+    {
+      "lat": 14.369233,
+      "lng": 100.587663,
+      "name": "Aytthaya"
+    },
+    {
+      "lat": 12.047916,
+      "lng": 102.323482,
+      "name": "Ko Chang"
+    },
+    {
+      "lat": 6.49082,
+      "lng": 99.30316,
+      "name": "Ko Lipe"
+    },
+    {
+      "lat": 19.3685,
+      "lng": 98.9671,
+      "name": "Chiang Dao"
+    },
+    {
+      "lat": 8.0863,
+      "lng": 98.906283,
+      "name": "Krabi Province"
+    },
+    {
+      "lat": 9.75778,
+      "lng": 100.0291,
+      "name": "Ko Pha Ngan"
+    },
+    {
+      "lat": 14.439175,
+      "lng": 101.372485,
+      "name": "Khao Yai National Park"
+    },
+    {
+      "lat": 17.00778,
+      "lng": 99.823,
+      "name": "Sukhothai"
+    },
+    {
+      "lat": 19.35891,
+      "lng": 98.44013,
+      "name": "Pai"
+    },
+    {
+      "lat": 17.486023,
+      "lng": 101.7223,
+      "name": "Loei"
+    },
+    {
+      "lat": 17.154599,
+      "lng": 104.134837,
+      "name": "Sakon Nakhon"
+    },
+    {
+      "lat": 7.624368,
+      "lng": 99.079226,
+      "name": "Ko Lanta"
+    },
+    {
+      "lat": 16.432194,
+      "lng": 102.823621,
+      "name": "Khon Kaen"
+    },
+    {
+      "lat": 7.884956,
+      "lng": 98.390808,
+      "name": "Phuket"
+    },
+    {
+      "lat": 19.91048,
+      "lng": 99.840576,
+      "name": "Chiang Rai"
+    },
+    {
+      "lat": 14.973849,
+      "lng": 102.083652,
+      "name": "Nakhon Ratchasima"
+    },
+    {
+      "lat": 12.55825,
+      "lng": 101.4511,
+      "name": "Ko Samet"
+    },
+    {
+      "lat": 14.88181,
+      "lng": 103.4936,
+      "name": "Surin"
+    },
+    {
+      "lat": 9.512017,
+      "lng": 100.013593,
+      "name": "Ko Samui"
+    },
+    {
+      "lat": 8.657863,
+      "lng": 97.646673,
+      "name": "Similan Islands"
+    },
+    {
+      "lat": 8.01056,
+      "lng": 98.83945,
+      "name": "Rai Leh"
+    },
+    {
+      "lat": 7.19882,
+      "lng": 100.5951,
+      "name": "Songkhla"
+    },
+    {
+      "lat": 6.591317,
+      "lng": 99.656409,
+      "name": "Ko Tarutao"
+    },
+    {
+      "lat": 7.740738,
+      "lng": 98.77841,
+      "name": "Ko Phi Phi"
+    },
+    {
+      "lat": 11.822702,
+      "lng": 102.478187,
+      "name": "Koh Mak"
+    },
+    {
+      "lat": 7.60033,
+      "lng": 98.36562,
+      "name": "Ko Racha"
+    },
+    {
+      "lat": 14.799508,
+      "lng": 100.653371,
+      "name": "Lopburi"
+    },
+    {
+      "lat": 18.586073,
+      "lng": 98.482628,
+      "name": "Doi Inthanon National Park"
+    },
+    {
+      "lat": 16.821124,
+      "lng": 100.265852,
+      "name": "Phitsanulok"
+    },
+    {
+      "lat": 18.144577,
+      "lng": 100.140283,
+      "name": "Phrae"
+    },
+    {
+      "lat": 15.806817,
+      "lng": 102.031503,
+      "name": "Chaiyaphum"
+    },
+    {
+      "lat": 17.364697,
+      "lng": 102.815892,
+      "name": "Udon Thani"
+    },
+    {
+      "lat": 15.118601,
+      "lng": 104.322009,
+      "name": "Si Saket"
+    },
+    {
+      "lat": 17.87828,
+      "lng": 102.741264,
+      "name": "Nong Khai"
+    },
+    {
+      "lat": 15.244845,
+      "lng": 104.847299,
+      "name": "Ubon Ratchathani"
+    },
+    {
+      "lat": 20.245024,
+      "lng": 100.237582,
+      "name": "Chiang Saen"
+    },
+    {
+      "lat": 19.215437,
+      "lng": 100.202369,
+      "name": "Phayao"
+    },
+    {
+      "lat": 9.736814,
+      "lng": 98.401975,
+      "name": "Ko Phayam"
+    },
+    {
+      "lat": 7.811887,
+      "lng": 98.976985,
+      "name": "Ko Jum"
+    },
+    {
+      "lat": 7.41557,
+      "lng": 99.203751,
+      "name": "Ko Ngai"
+    }
+  ]
+}
